@@ -1,0 +1,43 @@
+<php>
+    <head>
+        <title>web</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        </div class="container">
+        <!--- NAVIGATION BAR -->
+    <div class="container-navbar">
+        <ul class="ul-navbar">
+            <li class="li-navbar">
+                <a href="#"class="a-navbar">HOME</a>
+            </li>
+            <li class="li-navbar">
+            <a href="about.html"class="a-navbar">CATATAN PERJALANAN</a>
+            </li>
+            <li class="li-navbar">
+                <a href="contact.html"class="a-navbar">ISI DATA</a>
+            </li>
+        </ul>
+    </div>
+    <!--NAVIGATION BAR SELESAI-->
+
+    <!--CONTENT 1 -->
+    <div class="container-content">
+        <a href="https://anjay.com/poww"
+        class="a-content";>
+            <img src="ass.png" class="img-content" />
+            <p>tes</p>
+        </a>
+        
+    </div>
+    <!--CONTENT 1 END-->
+    
+    <!--FOOTER-->
+    <div class="container-footer">
+        <h1 class="h1-footer">web</h1>
+        <h2></h2>
+        <h3></h3>
+    </div>
+    <!--FOOTER END-->
+    </body>
+</php>
